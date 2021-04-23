@@ -1,0 +1,5 @@
+Git bash here
+-------
+git init
+git commit
+git push
